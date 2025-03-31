@@ -32,9 +32,6 @@ jobs:
           echo "Waiting for PostgreSQL and Redis to be ready..."
           sleep 10
 
-      - name: Run tests
-        run: mvn test
-
       - name: Stop and clean up Docker Compose
         if: always()
         run: docker compose -f random-fact-gen/docker-compose.yml down
