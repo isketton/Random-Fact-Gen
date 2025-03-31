@@ -1,4 +1,4 @@
-# psychology-fact-gen
+# random-fact-gen
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
