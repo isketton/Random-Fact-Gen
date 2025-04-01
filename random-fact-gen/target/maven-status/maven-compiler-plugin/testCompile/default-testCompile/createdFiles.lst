@@ -1,0 +1,5 @@
+org/randomfacts/FactLoaderTest.class
+org/randomfacts/FactResourceTest.class
+org/randomfacts/FactClientTest.class
+org/randomfacts/FactServiceTest.class
+org/randomfacts/FactResourceIT.class

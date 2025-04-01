@@ -1,0 +1,7 @@
+/Users/isiahketton/Documents/GitHub/Psychology-Fact-Gen/random-fact-gen/src/main/java/org/randomfacts/FactClient.java
+/Users/isiahketton/Documents/GitHub/Psychology-Fact-Gen/random-fact-gen/src/main/java/org/randomfacts/FactLoader.java
+/Users/isiahketton/Documents/GitHub/Psychology-Fact-Gen/random-fact-gen/src/main/java/org/randomfacts/FactRepository.java
+/Users/isiahketton/Documents/GitHub/Psychology-Fact-Gen/random-fact-gen/src/main/java/org/randomfacts/FactService.java
+/Users/isiahketton/Documents/GitHub/Psychology-Fact-Gen/random-fact-gen/src/main/java/org/randomfacts/MyRedisCache.java
+/Users/isiahketton/Documents/GitHub/Psychology-Fact-Gen/random-fact-gen/src/main/java/org/randomfacts/model/Fact.java
+/Users/isiahketton/Documents/GitHub/Psychology-Fact-Gen/random-fact-gen/src/main/java/org/randomfacts/model/FactWrapper.java

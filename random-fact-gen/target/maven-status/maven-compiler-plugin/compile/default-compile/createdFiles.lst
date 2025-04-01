@@ -1,0 +1,7 @@
+org/randomfacts/model/Fact.class
+org/randomfacts/MyRedisCache.class
+org/randomfacts/FactRepository.class
+org/randomfacts/FactClient.class
+org/randomfacts/model/FactWrapper.class
+org/randomfacts/FactService.class
+org/randomfacts/FactLoader.class
