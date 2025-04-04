@@ -29,7 +29,7 @@ A RESTful service that fetches random facts from API-Ninjas, an external API , s
    docker compose up -d
    ```
 
-   ## How to use application
+## How to use application
 
    ```bash
    curl -v http://localhost/facts
