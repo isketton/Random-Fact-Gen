@@ -17,7 +17,7 @@ A RESTful service that fetches random facts from API-Ninjas, an external API , s
 - Maven 3.8+
 - API key from [api-ninjas.com/facts](https://api-ninjas.com/api/facts)
 
-  ## Setup
+## Setup
 
 1. Clone the repository:
    ```bash
